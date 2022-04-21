@@ -63,13 +63,13 @@ inquirer
 
     if (license === 'MIT License') {
 
-        chosenLicense = `MIT License\nCopyright &copy; 2022 ${title}`;
+        chosenLicense = `MIT License\n\nCopyright &copy; 2022 ${title}`;
         licenseAlt = 'MIT License';
         licenseImg = 'https://img.shields.io/badge/license-MIT-green'
 
     } else {
 
-        chosenLicense = `GNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007`
+        chosenLicense = `GNU GENERAL PUBLIC LICENSE\n\nVersion 3, 29 June 2007`
         licenseAlt = 'GNU GPLv3';
         licenseImg = 'https://img.shields.io/badge/license-GPL-blue'
 
