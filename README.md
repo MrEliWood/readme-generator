@@ -6,7 +6,7 @@ The included index.js file uses npm fs and inquirer to quickly generate a profes
 
 [VIDEO WALKTHROUGH](./assets/videos/README%20Generator.mp4)
 
-[Screenshot of README Generator](./assets/images/README%20Generator%20Screenshot.png)
+![Screenshot of README Generator](./assets/images/README%20Generator%20Screenshot.png)
 
 ## Table of Contents
 
